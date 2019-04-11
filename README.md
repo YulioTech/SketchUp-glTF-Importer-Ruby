@@ -5,7 +5,7 @@ author: Yulio Technolgies Inc.
 status: discontinued development
 ---
 
-## Yulio SketchUp glTF Exporter
+## Yulio SketchUp glTF Importer
 
 Yulio SketchUp glTF Importer is a Ruby based SketchUp plug-in that adds the ability to import arbitrary 3D scenes into SketchUp from the glTF 2.0 format. Both the embedded glTF (.gltf file extension) and binary glTF (.glb file extension) are supported. The plug-in development was abandoned due to the inherent performance limitations of the SketchUp Ruby API implementation - it seems that the importer processing times scale exponentially with the increase in the amount of imported geometry.
 
