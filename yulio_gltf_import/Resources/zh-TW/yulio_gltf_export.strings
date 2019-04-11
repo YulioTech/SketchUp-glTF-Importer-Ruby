@@ -1,0 +1,8 @@
+"title"="glTF導入";
+"description"="導入glTF 2.0文件";
+"textGltf"="glTF 2.0 (*.gltf)";
+"binaryGltf"="二進制glTF 2.0（*.glb）";
+"invalidFormat"="此軟體僅支持glTF 2.0格式";
+"error"="導入失敗。 詳情如下：";
+"version"="glTF版本：";
+"noPosition"="沒有為網格提供任何位置。 這可能表示模型使用自定義著色器生成的幾何。";

@@ -1,0 +1,8 @@
+"title"="glTF import";
+"description"="Import glTF 2.0 files";
+"textGltf"="glTF 2.0 (*.gltf)";
+"binaryGltf"="glTF 2.0 binary (*.glb)";
+"invalidFormat"="This importer only supports glTF 2.0 formats";
+"error"="Import has failed. Details as follows:";
+"version"="glTF Version: ";
+"noPosition"="No positions were provided for the mesh. This may indicate the model uses custom shader-generated geometry.";

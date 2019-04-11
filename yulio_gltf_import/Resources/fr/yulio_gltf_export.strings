@@ -1,0 +1,8 @@
+"title"="Importation glTF";
+"description"="Importer des fichiers glTF 2.0";
+"textGltf"="glTF 2.0 (*.gltf)";
+"binaryGltf"="glTF 2.0 binaire (*.glb)";
+"invalidFormat"="Cet importateur prend uniquement en charge les formats glTF version 2.0";
+"error"="L'importation a échouée. Détails comme suit:";
+"version"="Version glTF:";
+"noPosition"="Aucune donnée n’a été fournie pour le maillage. Cela peut indiquer que le modèle utilise une géométrie générée par un shader particulier.";

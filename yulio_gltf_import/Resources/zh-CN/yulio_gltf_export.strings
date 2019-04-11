@@ -1,0 +1,8 @@
+"title"="glTF导入";
+"description"="导入glTF 2.0文件";
+"textGltf"="glTF 2.0 (*.gltf)";
+"binaryGltf"="二进制glTF 2.0（* .glb）";
+"invalidFormat"="此软件仅支持glTF 2.0格式";
+"error"="导入失败。 详情如下：";
+"version"="glTF版本：";
+"noPosition"="没有为网格提供任何位置。 这可能表示模型使用自定义着色器生成的几何。";
